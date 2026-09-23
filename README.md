@@ -6,8 +6,6 @@ Between the expert who *knows* a workflow and the agent that has to *perform* it
 
 I don't drop the business to be an engineer, or drop the engineering to manage data. The real work is the seam between them — and I've been building its tooling since before it had a title.
 
-Operator and engineer — nine years across operations, product, design, and engineering.
-
 ## What I build
 
 - **The environment** — mounts a domain's operational context as structured state an agent navigates and acts inside. ([domain-environment ↗](https://github.com/jeremycapps/domain-environment))
