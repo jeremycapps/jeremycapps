@@ -1,10 +1,5 @@
 # Jeremy Capps
-
-> I build the layer where domain knowledge becomes an environment an agent can actually work in.
-
-Between the expert who *knows* a workflow and the agent that has to *perform* it, there's a missing layer: the faithful world the agent reaches into — the documents, the notes, the state a real accountant or lawyer would pull from to solve a problem. I build that layer, and the harnesses that prove it's faithful.
-
-I don't drop the business to be an engineer, or drop the engineering to manage data. The real work is the seam between them — and I've been building its tooling since before it had a title.
+I build the layer where domain knowledge becomes an environment an agent can actually work in.
 
 ## What I build
 
